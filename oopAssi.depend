@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1478934796 source:e:\fci - cu\programming\c++ courses\oopassi\main.cpp
+	<iostream>
+	"Room.h"
+
+1478934960 e:\fci - cu\programming\c++ courses\oopassi\room.h
+	<iostream>
+
+1478934974 source:e:\fci - cu\programming\c++ courses\oopassi\room.cpp
+	<iostream>
+	"Room.h"
+
+1481547039 source:c:\users\gh-jr\desktop\oopassi\main.cpp
+	<iostream>
+	"stdio.h"
+	"Room.h"
+	"Agent.h"
+	"Grue.h"
+	"Player.h"
+	<ctime>
+	"string.h"
+	<string>
+
+1481546068 c:\users\gh-jr\desktop\oopassi\room.h
+	<iostream>
+
+1481546385 source:c:\users\gh-jr\desktop\oopassi\room.cpp
+	<iostream>
+	"Room.h"
+	"Agent.h"
+
+1481545135 c:\users\gh-jr\desktop\oopassi\include\agent.h
+	"../Room.h"
+
+1481529187 c:\users\gh-jr\desktop\oopassi\include\grue.h
+	<Agent.h>
+
+1481529187 c:\users\gh-jr\desktop\oopassi\include\player.h
+	<Agent.h>
+
+1481545135 source:c:\users\gh-jr\desktop\oopassi\src\agent.cpp
+	"Agent.h"
+
+1481532610 source:c:\users\gh-jr\desktop\oopassi\src\grue.cpp
+	"Grue.h"
+	<cstdlib>
+
+1481542623 source:c:\users\gh-jr\desktop\oopassi\src\player.cpp
+	"Player.h"
+
+1481984263 source:c:\users\gh-jr\desktop\desktop_workspace\oopassi\main.cpp
+	<iostream>
+	"stdio.h"
+	"Room.h"
+	"Agent.h"
+	"Grue.h"
+	"Player.h"
+	<ctime>
+	"string.h"
+	<string>
+
+1481984404 c:\users\gh-jr\desktop\desktop_workspace\oopassi\room.h
+	<iostream>
+
+1481982149 c:\users\gh-jr\desktop\desktop_workspace\oopassi\include\agent.h
+	"../Room.h"
+
+1481529187 c:\users\gh-jr\desktop\desktop_workspace\oopassi\include\grue.h
+	<Agent.h>
+
+1481529187 c:\users\gh-jr\desktop\desktop_workspace\oopassi\include\player.h
+	<Agent.h>
+
+1481982369 source:c:\users\gh-jr\desktop\desktop_workspace\oopassi\src\agent.cpp
+	"Agent.h"
+	"stdio.h"
+
+1481983349 source:c:\users\gh-jr\desktop\desktop_workspace\oopassi\src\grue.cpp
+	"Grue.h"
+	<cstdlib>
+
+1481542623 source:c:\users\gh-jr\desktop\desktop_workspace\oopassi\src\player.cpp
+	"Player.h"
+
+1481984524 source:c:\users\gh-jr\desktop\desktop_workspace\oopassi\room.cpp
+	<iostream>
+	"Room.h"
+	"Agent.h"
+
